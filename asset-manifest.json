@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lews/static/css/main.f855e6bc.css",
+    "main.js": "/lews/static/js/main.d8d1f424.js",
+    "static/js/787.0decfe02.chunk.js": "/lews/static/js/787.0decfe02.chunk.js",
+    "static/media/logo.svg": "/lews/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lews/index.html",
+    "main.f855e6bc.css.map": "/lews/static/css/main.f855e6bc.css.map",
+    "main.d8d1f424.js.map": "/lews/static/js/main.d8d1f424.js.map",
+    "787.0decfe02.chunk.js.map": "/lews/static/js/787.0decfe02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d8d1f424.js"
+  ]
+}
